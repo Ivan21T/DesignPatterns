@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VsProject\\Fascade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Facade.csproj|c:\\vsproject\\fascade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Facade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Fascade.csproj|C:\\VsProject\\Fascade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Fascade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Fascade.csproj|c:\\vsproject\\fascade\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Fascade.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Facade.csproj|c:\\vsproject\\fascade\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Facade.csproj|solutionrelative:ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Fascade.csproj|C:\\VsProject\\Fascade\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Fascade.csproj|solutionrelative:ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Facade.csproj|c:\\vsproject\\fascade\\billingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Facade.csproj|solutionrelative:billingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Fascade.csproj|C:\\VsProject\\Fascade\\billingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Fascade.csproj|solutionrelative:billingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Facade.csproj|c:\\vsproject\\fascade\\deliverysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Facade.csproj|solutionrelative:deliverysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Fascade.csproj|C:\\VsProject\\Fascade\\deliverysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480C72FA-8791-4894-8FDE-1F3653A11303}|Fascade.csproj|solutionrelative:deliverysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeliverySystem.cs",
+              "DocumentMoniker": "C:\\VsProject\\Fascade\\DeliverySystem.cs",
+              "RelativeDocumentMoniker": "DeliverySystem.cs",
+              "ToolTip": "C:\\VsProject\\Fascade\\DeliverySystem.cs",
+              "RelativeToolTip": "DeliverySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:40:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillingSystem.cs",
+              "DocumentMoniker": "C:\\VsProject\\Fascade\\BillingSystem.cs",
+              "RelativeDocumentMoniker": "BillingSystem.cs",
+              "ToolTip": "C:\\VsProject\\Fascade\\BillingSystem.cs",
+              "RelativeToolTip": "BillingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:40:23.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderSystem.cs",
+              "DocumentMoniker": "C:\\VsProject\\Fascade\\OrderSystem.cs",
+              "RelativeDocumentMoniker": "OrderSystem.cs",
+              "ToolTip": "C:\\VsProject\\Fascade\\OrderSystem.cs",
+              "RelativeToolTip": "OrderSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:40:23.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VsProject\\Fascade\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\VsProject\\Fascade\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:40:23.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeliverySystem.cs",
+              "DocumentMoniker": "C:\\VsProject\\Fascade\\DeliverySystem.cs",
+              "RelativeDocumentMoniker": "DeliverySystem.cs",
+              "ToolTip": "C:\\VsProject\\Fascade\\DeliverySystem.cs",
+              "RelativeToolTip": "DeliverySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:37:34.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillingSystem.cs",
+              "DocumentMoniker": "C:\\VsProject\\Fascade\\BillingSystem.cs",
+              "RelativeDocumentMoniker": "BillingSystem.cs",
+              "ToolTip": "C:\\VsProject\\Fascade\\BillingSystem.cs",
+              "RelativeToolTip": "BillingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:36:28.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderSystem.cs",
+              "DocumentMoniker": "C:\\VsProject\\Fascade\\OrderSystem.cs",
+              "RelativeDocumentMoniker": "OrderSystem.cs",
+              "ToolTip": "C:\\VsProject\\Fascade\\OrderSystem.cs",
+              "RelativeToolTip": "OrderSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:34:42.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\VsProject\\Fascade\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "C:\\VsProject\\Fascade\\Service.cs",
+              "RelativeToolTip": "Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:30:22.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VsProject\\Fascade\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\VsProject\\Fascade\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:30:06.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
