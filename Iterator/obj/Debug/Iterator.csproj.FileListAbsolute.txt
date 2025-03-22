@@ -1,0 +1,7 @@
+C:\VsProject\Iterator\bin\Debug\Iterator.exe.config
+C:\VsProject\Iterator\bin\Debug\Iterator.exe
+C:\VsProject\Iterator\bin\Debug\Iterator.pdb
+C:\VsProject\Iterator\obj\Debug\Iterator.csproj.AssemblyReference.cache
+C:\VsProject\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\VsProject\Iterator\obj\Debug\Iterator.exe
+C:\VsProject\Iterator\obj\Debug\Iterator.pdb

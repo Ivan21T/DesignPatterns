@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VsProject\\Iterator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06BD17F4-5302-4169-8825-99498FBB27ED}|Iterator.csproj|c:\\vsproject\\iterator\\channeliterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BD17F4-5302-4169-8825-99498FBB27ED}|Iterator.csproj|solutionrelative:channeliterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BD17F4-5302-4169-8825-99498FBB27ED}|Iterator.csproj|c:\\vsproject\\iterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BD17F4-5302-4169-8825-99498FBB27ED}|Iterator.csproj|solutionrelative:iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BD17F4-5302-4169-8825-99498FBB27ED}|Iterator.csproj|c:\\vsproject\\iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BD17F4-5302-4169-8825-99498FBB27ED}|Iterator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BD17F4-5302-4169-8825-99498FBB27ED}|Iterator.csproj|c:\\vsproject\\iterator\\tunedchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BD17F4-5302-4169-8825-99498FBB27ED}|Iterator.csproj|solutionrelative:tunedchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TunedChannel.cs",
+              "DocumentMoniker": "C:\\VsProject\\Iterator\\TunedChannel.cs",
+              "RelativeDocumentMoniker": "TunedChannel.cs",
+              "ToolTip": "C:\\VsProject\\Iterator\\TunedChannel.cs",
+              "RelativeToolTip": "TunedChannel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:15:34.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChannelIterator.cs",
+              "DocumentMoniker": "C:\\VsProject\\Iterator\\ChannelIterator.cs",
+              "RelativeDocumentMoniker": "ChannelIterator.cs",
+              "ToolTip": "C:\\VsProject\\Iterator\\ChannelIterator.cs",
+              "RelativeToolTip": "ChannelIterator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:09:04.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "C:\\VsProject\\Iterator\\IIterator.cs",
+              "RelativeDocumentMoniker": "IIterator.cs",
+              "ToolTip": "C:\\VsProject\\Iterator\\IIterator.cs",
+              "RelativeToolTip": "IIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:07:47.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VsProject\\Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\VsProject\\Iterator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:06:57.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
