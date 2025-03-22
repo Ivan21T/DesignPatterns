@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VsProject\\Bridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1DF85A-81C3-4EB0-95B1-DB1520C0BD12}|Bridge.csproj|c:\\vsproject\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1DF85A-81C3-4EB0-95B1-DB1520C0BD12}|Bridge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1DF85A-81C3-4EB0-95B1-DB1520C0BD12}|Bridge.csproj|c:\\vsproject\\bridge\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1DF85A-81C3-4EB0-95B1-DB1520C0BD12}|Bridge.csproj|solutionrelative:switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1DF85A-81C3-4EB0-95B1-DB1520C0BD12}|Bridge.csproj|c:\\vsproject\\bridge\\switchfordevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1DF85A-81C3-4EB0-95B1-DB1520C0BD12}|Bridge.csproj|solutionrelative:switchfordevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1DF85A-81C3-4EB0-95B1-DB1520C0BD12}|Bridge.csproj|c:\\vsproject\\bridge\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1DF85A-81C3-4EB0-95B1-DB1520C0BD12}|Bridge.csproj|solutionrelative:idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1DF85A-81C3-4EB0-95B1-DB1520C0BD12}|Bridge.csproj|c:\\vsproject\\bridge\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1DF85A-81C3-4EB0-95B1-DB1520C0BD12}|Bridge.csproj|solutionrelative:fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fan.cs",
+              "DocumentMoniker": "C:\\VsProject\\Bridge\\Fan.cs",
+              "RelativeDocumentMoniker": "Fan.cs",
+              "ToolTip": "C:\\VsProject\\Bridge\\Fan.cs",
+              "RelativeToolTip": "Fan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:18:12.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwitchForDevice.cs",
+              "DocumentMoniker": "C:\\VsProject\\Bridge\\SwitchForDevice.cs",
+              "RelativeDocumentMoniker": "SwitchForDevice.cs",
+              "ToolTip": "C:\\VsProject\\Bridge\\SwitchForDevice.cs",
+              "RelativeToolTip": "SwitchForDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:14:28.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "C:\\VsProject\\Bridge\\Switch.cs",
+              "RelativeDocumentMoniker": "Switch.cs",
+              "ToolTip": "C:\\VsProject\\Bridge\\Switch.cs",
+              "RelativeToolTip": "Switch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:07.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\VsProject\\Bridge\\IDevice.cs",
+              "RelativeDocumentMoniker": "IDevice.cs",
+              "ToolTip": "C:\\VsProject\\Bridge\\IDevice.cs",
+              "RelativeToolTip": "IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:08:27.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VsProject\\Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\VsProject\\Bridge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:06:55.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
