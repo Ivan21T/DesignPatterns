@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VsProject\\Visitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35A4CB-DBD4-4BF7-88A2-524A1F1A0A67}|Visitor.csproj|c:\\vsproject\\visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35A4CB-DBD4-4BF7-88A2-524A1F1A0A67}|Visitor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35A4CB-DBD4-4BF7-88A2-524A1F1A0A67}|Visitor.csproj|c:\\vsproject\\visitor\\taxicompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35A4CB-DBD4-4BF7-88A2-524A1F1A0A67}|Visitor.csproj|solutionrelative:taxicompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35A4CB-DBD4-4BF7-88A2-524A1F1A0A67}|Visitor.csproj|c:\\vsproject\\visitor\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35A4CB-DBD4-4BF7-88A2-524A1F1A0A67}|Visitor.csproj|solutionrelative:taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE35A4CB-DBD4-4BF7-88A2-524A1F1A0A67}|Visitor.csproj|c:\\vsproject\\visitor\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE35A4CB-DBD4-4BF7-88A2-524A1F1A0A67}|Visitor.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\VsProject\\Visitor\\Taxi.cs",
+              "RelativeDocumentMoniker": "Taxi.cs",
+              "ToolTip": "C:\\VsProject\\Visitor\\Taxi.cs",
+              "RelativeToolTip": "Taxi.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:23:16.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxiCompany.cs",
+              "DocumentMoniker": "C:\\VsProject\\Visitor\\TaxiCompany.cs",
+              "RelativeDocumentMoniker": "TaxiCompany.cs",
+              "ToolTip": "C:\\VsProject\\Visitor\\TaxiCompany.cs",
+              "RelativeToolTip": "TaxiCompany.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:20:34.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\VsProject\\Visitor\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\VsProject\\Visitor\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:14:32.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VsProject\\Visitor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\VsProject\\Visitor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:08:42.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
