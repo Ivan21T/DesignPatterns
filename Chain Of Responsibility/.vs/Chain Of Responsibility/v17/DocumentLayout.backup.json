@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|c:\\users\\ivan_\\source\\repos\\chain of responsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|c:\\users\\ivan_\\source\\repos\\chain of responsibility\\hundreddollarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|solutionrelative:hundreddollarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|c:\\users\\ivan_\\source\\repos\\chain of responsibility\\handlerofresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|solutionrelative:handlerofresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|c:\\users\\ivan_\\source\\repos\\chain of responsibility\\tendollarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|solutionrelative:tendollarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|c:\\users\\ivan_\\source\\repos\\chain of responsibility\\twentydollarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|solutionrelative:twentydollarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|c:\\users\\ivan_\\source\\repos\\chain of responsibility\\fiftydollarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC59B4-2C07-42A0-B6CF-D8F2EE8E24CA}|Chain Of Responsibility.csproj|solutionrelative:fiftydollarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TenDollarHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\TenDollarHandler.cs",
+              "RelativeDocumentMoniker": "TenDollarHandler.cs",
+              "ToolTip": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\TenDollarHandler.cs",
+              "RelativeToolTip": "TenDollarHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:04:12.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TwentyDollarHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\TwentyDollarHandler.cs",
+              "RelativeDocumentMoniker": "TwentyDollarHandler.cs",
+              "ToolTip": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\TwentyDollarHandler.cs",
+              "RelativeToolTip": "TwentyDollarHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:03:12.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FiftyDollarHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\FiftyDollarHandler.cs",
+              "RelativeDocumentMoniker": "FiftyDollarHandler.cs",
+              "ToolTip": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\FiftyDollarHandler.cs",
+              "RelativeToolTip": "FiftyDollarHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:01:55.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HundredDollarHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\HundredDollarHandler.cs",
+              "RelativeDocumentMoniker": "HundredDollarHandler.cs",
+              "ToolTip": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\HundredDollarHandler.cs",
+              "RelativeToolTip": "HundredDollarHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:59:45.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandlerOfResponsibility.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\HandlerOfResponsibility.cs",
+              "RelativeDocumentMoniker": "HandlerOfResponsibility.cs",
+              "ToolTip": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\HandlerOfResponsibility.cs",
+              "RelativeToolTip": "HandlerOfResponsibility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:57:32.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ivan_\\source\\repos\\Chain Of Responsibility\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:55:43.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
