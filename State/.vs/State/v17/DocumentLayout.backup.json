@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VsProject\\State\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|c:\\vsproject\\state\\nomoneystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|solutionrelative:nomoneystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|c:\\vsproject\\state\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|solutionrelative:vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|c:\\vsproject\\state\\moneystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|solutionrelative:moneystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|c:\\vsproject\\state\\vendingmachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|solutionrelative:vendingmachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|c:\\vsproject\\state\\itemselectstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|solutionrelative:itemselectstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|c:\\vsproject\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C817A7E-9FD0-4502-84BD-EE19FE951BDA}|State.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemSelectState.cs",
+              "DocumentMoniker": "C:\\VsProject\\State\\ItemSelectState.cs",
+              "RelativeDocumentMoniker": "ItemSelectState.cs",
+              "ToolTip": "C:\\VsProject\\State\\ItemSelectState.cs",
+              "RelativeToolTip": "ItemSelectState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:35:21.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoneyState.cs",
+              "DocumentMoniker": "C:\\VsProject\\State\\MoneyState.cs",
+              "RelativeDocumentMoniker": "MoneyState.cs",
+              "ToolTip": "C:\\VsProject\\State\\MoneyState.cs",
+              "RelativeToolTip": "MoneyState.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:27:24.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoMoneyState.cs",
+              "DocumentMoniker": "C:\\VsProject\\State\\NoMoneyState.cs",
+              "RelativeDocumentMoniker": "NoMoneyState.cs",
+              "ToolTip": "C:\\VsProject\\State\\NoMoneyState.cs",
+              "RelativeToolTip": "NoMoneyState.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:19:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendingMachineState.cs",
+              "DocumentMoniker": "C:\\VsProject\\State\\VendingMachineState.cs",
+              "RelativeDocumentMoniker": "VendingMachineState.cs",
+              "ToolTip": "C:\\VsProject\\State\\VendingMachineState.cs",
+              "RelativeToolTip": "VendingMachineState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:10:37.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendingMachine.cs",
+              "DocumentMoniker": "C:\\VsProject\\State\\VendingMachine.cs",
+              "RelativeDocumentMoniker": "VendingMachine.cs",
+              "ToolTip": "C:\\VsProject\\State\\VendingMachine.cs",
+              "RelativeToolTip": "VendingMachine.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:26:57.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VsProject\\State\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\VsProject\\State\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:26:26.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
