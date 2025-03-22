@@ -1,0 +1,7 @@
+C:\VsProject\Observer\bin\Debug\Observer.exe.config
+C:\VsProject\Observer\bin\Debug\Observer.exe
+C:\VsProject\Observer\bin\Debug\Observer.pdb
+C:\VsProject\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\VsProject\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\VsProject\Observer\obj\Debug\Observer.exe
+C:\VsProject\Observer\obj\Debug\Observer.pdb
